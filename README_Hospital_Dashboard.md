@@ -21,7 +21,7 @@ The objective of this project is to **analyze and visualize hospital emergency r
 5. **Insights & Analysis** – Derived key trends and areas for hospital workflow improvement.  
 
 ## 🖼️ Dashboard Preview  
-![Hospital Emergency Room Dashboard](Screenshot%202025-02-09%20165729.png)  
+![Hospital Emergency Room Dashboard](Dashboard1.png)  
 
 ## 📌 Key Insights  
 - **479 patients** visited the emergency room this month.  
